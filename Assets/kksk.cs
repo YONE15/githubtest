@@ -8,6 +8,7 @@ public class kksk : MonoBehaviour
     void Start()
     {
         Debug.Log("‰Ô‚æ‚èŒs‚Ì•û‚ª‚¤‚Ü‚¢");
+        Debug.Log("‚Å‚àAª‚ªˆê”Ô‚¤‚Ü‚¢");
     }
 
     // Update is called once per frame
